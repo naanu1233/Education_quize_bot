@@ -11,7 +11,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.exceptions import TelegramBadRequest
 
 # --- APIs aur Links ---
-TELEGRAM_API_KEY = "8100479936:AAFiHCHvjWdyTo9AB2-6_7BhENd4oPt3oiY" # अपनी API Key यहाँ डालें
+TELEGRAM_API_KEY = "100479936:AAFiHCHvjWdyTo9AB2-6_7BhENd4oPt3oi" # अपनी API Key यहाँ डालें
 YOUTUBE_LINK = "https://www.youtube.com/@sscwalistudy?sub_confirmation=1"
 
 # Bot, Dispatcher aur main function ko initialize karein
